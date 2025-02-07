@@ -26,6 +26,6 @@ def speak(self):
     print (f"{self.name} say woof")
 
 #create an object
-dog1=Dog("Tommy","Krish")
+dog1=Dog("Tommy","Krishna")
 speak(dog1)
-print (f"Owner: {dog1.owner}")  # Output: Owner: Krish
+print (f"Owner: {dog1.owner}")  # Output: Owner: Krishna
